@@ -1,12 +1,12 @@
 {    
      "Version": "3.5.0",
-     "namalu" : "DITTAZ",
-     "nomerlu": "6285156137901",
-     "namabot": "Amelia Botz",
-     "nomerbot": "6285859108597",
+     "namalu" : "Kevin afsar",
+     "nomerlu": "6283802905703",
+     "namabot": "KyraaBot",
+     "nomerbot": "6285162556219",
      "gender" : "Female",
-     "copyright" : "Extream",
-     "namaDocument": "Amelia Botz",
+     "copyright" : "Kevin afsar",
+     "namaDocument": "KyraaBot",
      "joinGcExtream": true,
 
      "publik": true,
@@ -29,7 +29,7 @@
      
      "Jika ada yang telpon, bot bakal kirim bug  ke penelpon jika aktikan fitur sendbug": "ke true",
        "Anticall": true,
-      "sendbug": true,
+      "sendbug": false,
      
      "SetFunction": {
      "Daftar_Font": "block, slick, tiny, grid, pallet, shade, chrome, simple, simpleBlock, 3d, simple3d, huge, console",        
@@ -45,10 +45,10 @@
      },
      
      "setPayment": {
-     "Shopee" : "085156137901",
-     "Gopay" : "085156137901",
-     "Dana" : "085156137901",
-     "Ovo" : "085156137901"
+     "Shopee" : "-",
+     "Gopay" : "-",
+     "Dana" : "-",
+     "Ovo" : "-"
      },
      
      "setPrefix": {

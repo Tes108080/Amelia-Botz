@@ -516,6 +516,7 @@ ${week}, ${calender}
 *╭─❲ THANKS TO ❳*
 *│*
 *│* • Dittaz
+*│* • Kevin Gans (owner)
 *│* • Nina Kawai
 *│* • Resta Gamteng :v
 *│* • Zeeone Ofc
